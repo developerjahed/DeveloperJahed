@@ -1,6 +1,6 @@
-![Web Developer & WordPress Specialist.](https://developerjahed.com/img/banner.png)
 ## Hi there 👋, I'm Jahed
-#### Web Developer & WordPress Specialist.
+#### I'm Web Developer & WordPress Specialist.
+![Web Developer & WordPress Specialist.](https://developerjahed.com/img/banner.png)
 I'm Jahed Hossian called developer jahed, Web Design & Development is my passion, I give full time to development. I believe in quality-full work, not quantity, I get deeper to understand client's need & problems. My mission is to satisfy every client and become myself a pro developer to learn new updates every day.
 
 Skills: JS / REACT / HTML / CSS/BOOTSTRAP//SASSWORDPRESS/PHP & MSQL
